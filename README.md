@@ -1,4 +1,4 @@
-# POS v3 — Production Repository
+# Marvels POS v3 — Production Repository
 
 **README version:** 3.0.0  
 **Product version:** 3.0.0  
